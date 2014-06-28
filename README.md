@@ -2,8 +2,8 @@ chart-js
 ========
 
 ## Public Attributes
- *data
- *dataString
- *kind
- *color
- *options
+ * data
+ * dataString
+ * kind
+ * color
+ * options
